@@ -35,7 +35,7 @@ div.description {
     margin-bottom: 10px;
 }
 
-.description > .description__text {
+.description > .description_text {
     display: inherit;
 }
 
